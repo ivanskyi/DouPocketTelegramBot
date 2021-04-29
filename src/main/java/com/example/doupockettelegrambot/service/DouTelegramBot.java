@@ -11,12 +11,12 @@ public class DouTelegramBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "doupocketbot";
+        return "-";
     }
 
     @Override
     public String getBotToken() {
-        return "1667329763:AAGbxoalMpGl-RV2UDGctgw8qsWdPaQcfts";
+        return "-";
     }
 
     @SneakyThrows
